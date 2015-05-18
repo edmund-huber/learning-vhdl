@@ -1,3 +1,5 @@
+-- Does 100 ticks at 10ns then quits.
+
 library ieee;
 use ieee.std_logic_1164.all;
 
